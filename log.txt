@@ -36,7 +36,7 @@ PDA:	CRUZAR DATOS DE farsamag.com CON LOS DE alternativateatral.com
 		DADOS LOS TÍTULOS DE LAS OBRAS EXTRAIDAS DE farsamag.com, BUSCO OBRAS HOMÓNIMAS EN alternativateatral.com
 		GUARDO LAS OBRAS ENCONTRADAS Y TODAS LAS PERSONAS QUE TRABAJAN EN ELLAS.
 		CORRECCIÓN DE ERRORES.
-		TODAVÍA QUEDAN 63 OBRAS SIN RELACIONAR.
+		QUEDA TERMINADA ESTA TAREA.
 
 ------------------------------------------------------------------------------x---------------------------------------------------------------------------------------------------------------------
 
