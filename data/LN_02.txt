@@ -1,138 +1,138 @@
-['Las manos de Eduviges al momento del nacer',
- 'El mecanismo de Alaska',
- 'Obra del demonio',
- 'Metrochenta',
- 'Pequeña Pamela',
- 'Glory Wall',
- 'La Méridienne',
- 'Love me',
- 'MB#6',
- 'L’Avenir/El porvenir',
- 'Hoy bailamos para siempre',
- 'Boquitas pintadas',
- 'Los nacimientos',
- 'La vida sin ficción',
- 'La madre de la patria',
- 'El silencio de la carne',
- 'Proyecto Frankenstein',
- 'Tick Tick Boom',
- 'El parador de Valeria 2',
- 'Gigante',
- 'Las irresponsables',
- 'Claudio, el cuento del tío',
- 'Pieza para maniquíes y un actor de reparto',
- 'Le Scriptographe',
- 'Más tropiezos de Mastropiero',
- 'Carniceros de la lírica',
- 'La gran renuncia',
- 'Azul y la Navidad',
- 'Seres imaginarios de Borges',
- 'Familia no tipo y la nube maligna',
- 'Shrek',
- 'Canticuénticos',
- 'Ensueños',
- 'Disney on Ice',
- 'La diosa de la fortuna',
- 'Tijeras salvajes',
- 'Afterglow',
- 'Regreso en Patagonia',
- 'La Pathétique',
- 'Una película sin Julie',
- 'Network',
- 'Despojo',
- 'Discepolín, fanático arlequín',
- 'Los 39 escalones',
- 'Cobra K',
- 'Laponia',
- 'Footloose',
- 'Del barrio La Mondiola',
- 'El alemán que habita en mí',
- 'Revelación',
- 'Nos dijeron que íbamos a ser reinas',
- 'No, no me arrepiento de nada',
- 'Kurt Weill, el amor y la otra piel',
- 'Miguel de Molina al desnudo',
- 'Milena e Irene',
- 'Las fugitivas',
- 'Oh, Dios mío',
- 'Shamrock',
- 'Aquellas mujeres',
- 'Un hombre peligroso',
- 'El chico de la habitación azul',
- 'Eternidades',
- 'Más bello que la muerte',
- 'Mandinga',
- 'La Meca',
- 'Los actores infelices',
- 'Prórroga para una despedida',
- 'Cemento',
- 'Lorca, el teatro bajo la arena',
- 'Cartón pintado',
- 'Animal de río',
- 'El hombre de acero',
- 'Encierros (2x2+1)',
- '28 almas en el hielo',
- 'La última Bonaparte',
- 'Mi madre, mi novia y yo',
- 'Costa presidenta',
- 'Tom, Dick & Harry',
- 'La última sesión de Freud',
- 'Clase 63',
- 'El relato',
- 'Pesadilla o El hombre que fue jueves',
- 'Israfel',
- 'Novecento',
- 'Else y Henry',
- 'Cenando con mis monstruos',
- 'Una casa de muñecas',
- 'Bodas de sangre',
- 'María e Isabel (una tragedia isabelina)',
- 'Transoceánicas',
- '¿Qué pasó en todo este tiempo?',
- 'No te vayas con amor o sin él',
- 'En La batalla de los ausentes',
- 'Enero',
- 'Torna amore',
- 'Los Recortado',
- 'El tipo',
- 'Y luego la calma',
- 'La débil mental',
- 'El invierno del juglar',
- 'Stéfano',
- 'Otros tiempos',
- 'Ravioles',
- 'Mensaje bailado #2',
- 'Yuna soy yo',
- 'Caturno',
- 'Vassa',
- 'La boda de la hija del Presidente',
- 'Clausura del amor',
- 'El clásico binomio',
- 'Pajarita',
- 'Julia, laberinto de memorias',
- 'Esto es amor',
- 'Tengo un muerto en el placard',
- 'Como vaca mirando un tren',
- 'Donde empiezan las cosas que son importantes II',
- 'Vivir vende',
- 'El enganche',
- 'Baltasar contra el olvido',
- 'Dos bacalaos noruegos',
- 'Human tecno trans',
- 'Chongo triste',
- 'Inferno',
- 'El intermediario',
- 'El cazador y el buen nazi',
- 'Yo soy mi propia mujer',
- 'Las manos sucias',
- 'Medea meditativa',
- 'La traducción (Prueba 8)',
- 'De la mejor manera',
- 'La divina familia',
- 'La Jenny, claro que sí',
- 'Argentina, la revista',
- 'El gran sueño',
- 'Los 39 escalones',
- 'Mucho bardo y pocas nueces',
- 'La musa argentina',
- 'El divorcio']
+3
+3
+5
+4
+2
+2
+3
+4
+3
+2
+4
+4
+4
+4
+3
+4
+4
+4
+4
+4
+4
+4
+3
+4
+5
+4
+3
+4
+4
+4
+4
+4
+4
+4
+3
+3
+3
+4
+5
+4
+4
+4
+3
+3
+3
+5
+3
+3
+4
+3
+3
+2
+3
+4
+3
+3
+3
+4
+3
+4
+3
+4
+5
+4
+4
+3
+3
+3
+4
+4
+3
+5
+4
+4
+5
+4
+3
+3
+4
+4
+4
+4
+3
+3
+4
+3
+4
+3
+4
+3
+4
+2
+4
+3
+3
+4
+4
+4
+4
+4
+4
+2
+4
+4
+4
+3
+3
+3
+3
+3
+4
+3
+4
+3
+4
+4
+4
+3
+4
+5
+2
+4
+3
+4
+4
+5
+3
+4
+4
+3
+3
+3
+3
+4
+3
+4
+5
+4
