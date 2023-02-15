@@ -38,6 +38,15 @@ PDA:	CRUZAR DATOS DE farsamag.com CON LOS DE alternativateatral.com
 		CORRECCIÓN DE ERRORES.
 		QUEDA TERMINADA ESTA TAREA.
 
+14/02/2023
+PDA:		DESCARGAR DATOS DE LN.
+		CRUZAR DATOS DE LN CON alternativateatral.com
+		DESCARGAR DATOS DE RESEÑAS DE alternativateatral
+
+15/02/2023
+PDA:		ORDENAR, SELECCIONAR Y LIMPIAR LOS DATOS OBTENIDOS.
+		CREAR UN DATAFRAME QUE ENGLOBE TODOS LOS DATOS.
+		REALIZAR REGRESIONES LINEALES.	 
 ------------------------------------------------------------------------------x---------------------------------------------------------------------------------------------------------------------
 
 To do list:
