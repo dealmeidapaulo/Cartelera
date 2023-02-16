@@ -88,11 +88,11 @@ def buscarObra(titulo):
 
 
 
-def opiniones_url_i(i):
-    return 'https://www.alternativateatral.com/opinion_publico.php?pagina={}'.format(i)
+def opiniones_url_i(i, url='https://www.alternativateatral.com/opinion_publico.php?pagina='):
+    return url+str(i)
 
-def opiniones_getOpiniones(i):
-    url = opiniones_url_i(i)
+def opiniones_getOpiniones(i,url='https://www.alternativateatral.com/opinion_publico.php?pagina='):
+    url = opiniones_url_i(i,url)
     soup = url_to_soup(url)
     soup = soup.find("body")
     soup = soup.find("div",{"class":"mdc-drawer-app-content"})
@@ -104,3 +104,38 @@ def opiniones_getOpiniones(i):
     L    = [(get_links(s)[0],  s.find("span",{"class":"calificacion"})["content"]) for s in L]
     L    = [(l[0].replace('//www.alternativateatral.com/opiniones','https://www.alternativateatral.com//obra'),l[1]) for l in L]
     return L 
+
+
+def opinionesObra_pagMax(url):
+    try:
+        soup = url_to_soup(url+'1')
+        soup = soup.find("body")
+        soup = soup.find("div",{"class":"mdc-drawer-app-content"})
+        soup = soup.find("div",{"class":"row mdc-top-app-bar--fixed-adjust"})
+        soup = soup.find("div",{"class":"main"})
+        soup = soup.find("div",{"class":"alter-padding content-opiniones"})
+        soup = soup.find("nav")
+        soup = soup.find("ul")
+        t    = soup.find_all("li",{"class":"page-item"})[-2].text
+        return int(t)
+    except: return 1
+
+def opinionesObra_getOpiniones(url,max):
+    users = []
+    for i in range(1,max+1):
+        soup = url_to_soup(url+str(i))      
+        soup = soup.find("div",{"class":"mdc-drawer-app-content"})
+        soup = soup.find("div",{"class":"row mdc-top-app-bar--fixed-adjust"})
+        soup = soup.find("div",{"class":"main"})
+        soup = soup.find("div",{"class":"alter-padding content-opiniones"})
+        soup = soup.find("ul",{"class":"opiniones"})
+        L    = soup.find_all("li",{"class":"opinion-general"})
+        L    = [l.find_all("span",{"class":"autor"})[1] for l in L]
+        for l in L:
+            try: 
+                if int(l.find("span", {"class":"badgeopinion badge-opinador"}).text)>=25:
+                            users += [get_links(l)]
+            except:
+                None
+
+    return users
