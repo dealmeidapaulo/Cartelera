@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra78774-la-musica-de-la-750-presenta-yamila-cafrune-la-patria-no-se-hizo-sola', [('Intérpretes', 'Yamila Cafrune', 'https://www.alternativateatral.com//persona325280-yamila-cafrune'), ('Intérpretes', 'Mariano Saravia', 'https://www.alternativateatral.com//persona459742-mariano-saravia')], ['/espacio519-caras-y-caretas-san-telmo'])

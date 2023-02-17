@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra73147-conversaciones-con-erik-satie--nessy-muhr-y-florencia-firpo', [('Intérpretes', 'Florencia Firpo', 'https://www.alternativateatral.com//persona35-florencia-firpo'), ('Músicos', 'Nessy Muhr', 'https://www.alternativateatral.com//persona392503-nessy-muhr')], ['/espacio4701-pista-urbana'])

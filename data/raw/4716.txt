@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra74491-florencia-ruiz-y-mono-fontana', [('Intérpretes', 'Mono Fontana', 'https://www.alternativateatral.com//persona185701-mono-fontana'), ('Intérpretes', 'Florencia Ruiz', 'https://www.alternativateatral.com//persona143978-florencia-ruiz')], ['/espacio1808-que-tren-club-cultural'])

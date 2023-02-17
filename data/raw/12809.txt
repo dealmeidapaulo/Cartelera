@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra79944-luis-filipelli-presenta-despues-de-tantos-inviernos', [('Cantante', 'Luis Filipelli', 'https://www.alternativateatral.com//persona453160-luis-filipelli'), ('Dirección musical', 'Aquiles Roggero', 'https://www.alternativateatral.com//persona48375-aquiles-roggero')], ['/espacio4701-pista-urbana'])

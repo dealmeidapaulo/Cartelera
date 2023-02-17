@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra76345-abran-cancha-que-aqui-viene-don-quijote-de-la-mancha', [('Autoría', 'Adela Basch', 'https://www.alternativateatral.com//persona24439-adela-basch'), ('Dirección', 'Juan Salvador Neme', 'https://www.alternativateatral.com//persona358020-juan-salvador-neme')], ['/espacio6685-teatro-calderon'])

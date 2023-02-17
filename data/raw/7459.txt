@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra78074-duo-gonilskipishenin', [('Piano', 'Perla Gonilski', 'https://www.alternativateatral.com//persona387023-perla-gonilski'), ('Violín', 'Oleg Pishenin', 'https://www.alternativateatral.com//persona288641-oleg-pishenin')], ['/espacio59-la-scala-de-san-telmo-giuffra', '/espacio3933-teatro-hasta-trilce', '/espacio7079-cafe-vinilo'])

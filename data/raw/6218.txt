@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra32430-melicienta', [('Autoría', 'Mauro Cadaval', 'https://www.alternativateatral.com//persona283826-mauro-cadaval'), ('Dirección', 'Mauro Cadaval', 'https://www.alternativateatral.com//persona283826-mauro-cadaval')], ['/espacio3321-teatro-la-mueca-muy-teatro', '/espacio67-manzana-de-las-luces'])

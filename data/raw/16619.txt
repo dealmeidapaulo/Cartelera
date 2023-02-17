@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra74277-hermanas-de-los-arboles', [('Dirección', 'Camila Menéndez', 'https://www.alternativateatral.com//persona408328-camila-menendez'), ('Dirección', 'Lucas Peñafort', 'https://www.alternativateatral.com//persona331079-lucas-penafort')], ['/espacio2018-centro-cultural-25-de-mayo'])

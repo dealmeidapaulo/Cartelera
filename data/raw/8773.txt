@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra59446-el-pescador-que-no-pesca-mas', [('Intérpretes', 'Sebastián Díaz', 'https://www.alternativateatral.com//persona19836-sebastian-diaz'), ('Intérpretes', 'Alejandra Villanueva', 'https://www.alternativateatral.com//persona254188-alejandra-villanueva')], ['/espacio5131-nn-teatro-bar'])

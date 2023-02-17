@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra34506-musicas-de-por-aca', [('Intérpretes', 'Lucas Camejo', 'https://www.alternativateatral.com//persona279311-lucas-camejo'), ('Intérpretes', 'Guillermo Capocci', 'https://www.alternativateatral.com//persona279304-guillermo-capocci')], ['/espacio4843-el-gutierrez-casa-taller'])

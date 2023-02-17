@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra55852-jorge-fandermole-y-juan-quintero-en-concierto', [('Intérpretes', 'Jorge Fandermole', 'https://www.alternativateatral.com//persona152126-jorge-fandermole'), ('Intérpretes', 'Juan Quintero', 'https://www.alternativateatral.com//persona98191-juan-quintero')], ['/espacio630-sala-420'])

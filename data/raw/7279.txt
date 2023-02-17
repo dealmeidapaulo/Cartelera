@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra34128-laura-canoura-y-hugo-fattoruso', [('Intérpretes', 'Laura Canoura', 'https://www.alternativateatral.com//persona215546-laura-canoura'), ('Intérpretes', 'Hugo Fattoruso', 'https://www.alternativateatral.com//persona230316-hugo-fattoruso')], ['/espacio512-torquato-tasso'])

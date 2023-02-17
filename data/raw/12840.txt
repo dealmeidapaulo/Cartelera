@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra32123-duo-fuertes-varnerin-presenta-uno-y-uno', [('Músicos', 'Agustín Fuertes', 'https://www.alternativateatral.com//persona34526-agustin-fuertes'), ('Músicos', 'Ariel Varnerín', 'https://www.alternativateatral.com//persona282471-ariel-varnerin')], ['/espacio2531-cafe-vinilo-cerrado'])

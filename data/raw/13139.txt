@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra62170-la-era-del-camello', [('Actúan', 'Celeste Fonseca', 'https://www.alternativateatral.com//persona444368-celeste-fonseca'), ('Actúan', 'Marcelo Alejandro Vega', 'https://www.alternativateatral.com//persona445561-marcelo-alejandro-vega')], ['/espacio2137-teatro-mandril', '/espacio5951-doblet'])

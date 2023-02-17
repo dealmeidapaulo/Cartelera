@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra23843-sola-contra-el-mundo', [('Autoría', 'Maya Landesman', 'https://www.alternativateatral.com//persona106964-maya-landesman'), ('Actúan', 'Maya Landesman', 'https://www.alternativateatral.com//persona106964-maya-landesman')], ['/espacio227-teatro-la-casona', '/espacio106-the-cavern-buenos-aires', '/espacio106-the-cavern-buenos-aires'])

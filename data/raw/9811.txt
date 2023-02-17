@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra67628-certamen-de-la-voz-2019--primera-ronda--sede-capital', [('Producción', 'Grupo Imaginarium', 'https://www.alternativateatral.com//persona416170-grupo-imaginarium'), ('Producción', 'Lino Daniel Pérez', 'https://www.alternativateatral.com//persona224430-lino-daniel-perez')], ['/espacio49-el-vitral'])

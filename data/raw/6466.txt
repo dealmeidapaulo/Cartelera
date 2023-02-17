@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra36448-desde-el-azul', [('Actúan', 'Inés Pasic', 'https://www.alternativateatral.com//persona112092-ines-pasic')], ['/espacio124-el-galpon-de-catalinas', '/espacio186-teatro-la-mascara', '/espacio2546-comedor-los-pibes', '/espacio4633-casa-de-la-cultura-de-la-villa-21', '/espacio4754-sala-de-los-pompapetriyasos'])

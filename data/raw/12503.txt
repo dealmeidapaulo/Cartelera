@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra66102-marcelo-moguilevsky--sebastian-esposito', [('Músicos', 'Sebastián Espósito', 'https://www.alternativateatral.com//persona65154-sebastian-esposito'), ('Músicos', 'Marcelo Moguilevsky', 'https://www.alternativateatral.com//persona586-marcelo-moguilevsky')], ['/espacio1148-teatro-de-la-media-legua', '/espacio2531-cafe-vinilo-cerrado'])

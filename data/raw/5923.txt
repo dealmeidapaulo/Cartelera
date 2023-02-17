@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra61101-carlos-casella-intimo', [('Intérpretes', 'Tomás Carnelli', 'https://www.alternativateatral.com//persona108485-tomas-carnelli'), ('Intérpretes', 'Carlos Casella', 'https://www.alternativateatral.com//persona4142-carlos-casella')], ['/espacio1770-casa-brandon', '/espacio1770-casa-brandon'])

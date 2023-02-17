@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra78121-puente-quimera', [('Intérpretes', 'Norberto Miranda', 'https://www.alternativateatral.com//persona278872-norberto-miranda'), ('Intérpretes', 'Julian Socolovsky', 'https://www.alternativateatral.com//persona395078-julian-socolovsky')], ['/espacio4779-centro-cultural-el-deseo'])

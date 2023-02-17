@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra80323-herencias', [('Dramaturgia', 'Adrian Yeste', 'https://www.alternativateatral.com//persona280966-adrian-yeste'), ('Narración', 'Adrian Yeste', 'https://www.alternativateatral.com//persona280966-adrian-yeste')], ['/espacio6471-alquimia-espacio-cultural'])

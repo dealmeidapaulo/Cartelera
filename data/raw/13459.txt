@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra74166-ciclo-veredas', [('Idea', 'Denise Quetglas', 'https://www.alternativateatral.com//persona100827-denise-quetglas'), ('Producción', 'Denise Quetglas', 'https://www.alternativateatral.com//persona100827-denise-quetglas')], ['/espacio6121-el-taller-de-omar'])

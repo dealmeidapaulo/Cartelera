@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra53064-dos-mujeres-tres-sombras', [('Actúan', 'Adriana Tascon', 'https://www.alternativateatral.com//persona312215-adriana-tascon'), ('Actúan', 'Gladys Villanueva', 'https://www.alternativateatral.com//persona312216-gladys-villanueva')], ['/espacio1-actors-studio-teatro', '/espacio5083-galpon-artistico-de-caballito'])

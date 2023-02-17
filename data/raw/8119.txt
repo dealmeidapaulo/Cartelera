@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra65444-ciclo-de-pianistas--lucas-querini--musica-latinoamericana', [('Músicos', 'Lucas Querini', 'https://www.alternativateatral.com//persona407840-lucas-querini'), ('Músicos invitados', 'Simón Lagier', 'https://www.alternativateatral.com//persona407841-simon-lagier')], ['/espacio2531-cafe-vinilo-cerrado'])

@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra75197-sol-pereyra-ciclo-acustico-con-amigues', [('Guitarra', 'Juan Manuel Miguez', 'https://www.alternativateatral.com//persona331882-juan-manuel-miguez'), ('Cantante', 'Sol Pereyra', 'https://www.alternativateatral.com//persona432611-sol-pereyra')], ['/espacio3426-el-galpon-de-guevara'])

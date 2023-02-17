@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra34191-yo-nerd', [('Actúan', 'Pablo Molinari', 'https://www.alternativateatral.com//persona34204-pablo-molinari')], ['/espacio534-teatro-maipu', '/espacio771-mateo-booz', '/espacio5275-teatro-border', '/espacio3531-teatro-porteno', '/espacio106-the-cavern-buenos-aires', '/espacio1473-velma-cafe'])

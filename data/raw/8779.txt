@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra56704-laborde--kvitko--tango-tango', [('Cantantes', 'Chino Laborde', 'https://www.alternativateatral.com//persona12174-chino-laborde'), ('Músicos', 'Diego Kvitko', 'https://www.alternativateatral.com//persona20671-diego-kvitko')], ['/espacio4955-santos-4040'])

@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra67116-gimena-gonzalez-y-pablo-citarella-en-concierto', [('Músicos', 'Pablo Citarella', 'https://www.alternativateatral.com//persona115910-pablo-citarella'), ('Músicos', 'Gimena Gonzalez', 'https://www.alternativateatral.com//persona58159-gimena-gonzalez')], ['/espacio6447-el-templo-espacio-cultural'])

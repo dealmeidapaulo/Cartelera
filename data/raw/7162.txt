@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra60172-lili-rossi-canta-con-su-guitarra', [('Músicos', 'LILI Rossi', 'https://www.alternativateatral.com//persona354344-lili-rossi'), ('Músicos invitados', 'Lorena Galarza', 'https://www.alternativateatral.com//persona391648-lorena-galarza')], ['/espacio2531-cafe-vinilo-cerrado'])

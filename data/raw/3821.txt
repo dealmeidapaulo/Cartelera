@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra72830-laura-gonzalez-en-el-living-de-kairos--sesiones-acusticas', [('Intérpretes', 'Nacho Esbó', 'https://www.alternativateatral.com//persona368798-nacho-esbo'), ('Intérpretes', 'Laura Gonzalez', 'https://www.alternativateatral.com//persona201754-laura-gonzalez')], ['/espacio4638-el-metodo-kairos-teatro'])

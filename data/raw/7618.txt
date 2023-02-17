@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra80961-efecto-derrame--octubre', [('Producción', 'Martina López González', 'https://www.alternativateatral.com//persona164841-martina-lopez-gonzalez'), ('Producción', 'Laura Loredo Rubio', 'https://www.alternativateatral.com//persona72353-laura-loredo-rubio')], ['/espacio6162-animal-teatro'])

@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra56252-ciclo-bandoneomania--julio-coviello--emiliano-guerrero', [('Intérpretes', 'Julio Coviello', 'https://www.alternativateatral.com//persona107157-julio-coviello'), ('Intérpretes', 'Emiliano Guerrero', 'https://www.alternativateatral.com//persona307842-emiliano-guerrero')], ['/espacio2531-cafe-vinilo'])

@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra75778-el-cubo-comedy-bar', [('Actúan', 'Emilio Gonzalez Moreira', 'https://www.alternativateatral.com//persona52620-emilio-gonzalez-moreira'), ('Actúan', 'Javi Paredes', 'https://www.alternativateatral.com//persona454133-javi-paredes')], ['/espacio901-teatro-el-cubo', '/espacio901-teatro-el-cubo'])

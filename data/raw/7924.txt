@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra44393-cecilia-todd-y-teresa-parodi', [('Intérpretes', 'Teresa Parodi', 'https://www.alternativateatral.com//persona214031-teresa-parodi'), ('Intérpretes', 'Cecilia Todd', 'https://www.alternativateatral.com//persona279312-cecilia-todd')], ['/espacio4843-el-gutierrez-casa-taller'])

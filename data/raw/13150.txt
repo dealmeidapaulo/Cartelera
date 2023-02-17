@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra81951-senoras', [('Actúan', 'Luciana Martina', 'https://www.alternativateatral.com//persona470060-luciana-martina'), ('Actúan', 'Paula Cecilia Trillo', 'https://www.alternativateatral.com//persona89936-paula-cecilia-trillo')], ['/espacio7101-especial-cultural-bar', '/espacio7101-especial-cultural-bar'])

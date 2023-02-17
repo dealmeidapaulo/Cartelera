@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra56801-chico-novarro-y-pablo-novak-presentan-como-en-el-living-de-casa', [('Actúan', 'Pablo Novak', 'https://www.alternativateatral.com//persona3840-pablo-novak'), ('Actúan', 'Chico Novarro', 'https://www.alternativateatral.com//persona6187-chico-novarro')], ['/espacio5945-gorriti-art-center'])

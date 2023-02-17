@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra74452-fernp.nando-sanjiao--solo', [('Actúan', 'Fernando Sanjiao', 'https://www.alternativateatral.com//persona24138-fernando-sanjiao'), ('Producción', 'Quiero Stand Up', 'https://www.alternativateatral.com//persona320931-quiero-stand-up')], ['/espacio57-paseo-la-plaza', '/espacio534-teatro-maipu'])

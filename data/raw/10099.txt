@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra67770-eran-diez', [('Libro', 'Agatha Christie', 'https://www.alternativateatral.com//persona22565-agatha-christie'), ('Adaptación', 'Quique Barros', 'https://www.alternativateatral.com//persona56597-quique-barros'), ('Adaptación', 'Carly Santal', 'https://www.alternativateatral.com//persona411152-carly-santal')], [])

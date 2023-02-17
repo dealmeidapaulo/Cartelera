@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra70708-quique-sinesi--augusto-sinesi', [('Músicos', 'Augusto Sinesi', 'https://www.alternativateatral.com//persona401125-augusto-sinesi'), ('Músicos', 'Quique Sinesi', 'https://www.alternativateatral.com//persona200044-quique-sinesi')], ['/espacio2531-cafe-vinilo-cerrado'])

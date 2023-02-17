@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra43375-pack-de-teatro', [('Idea', 'Florencia Aroldi', 'https://www.alternativateatral.com//persona4543-florencia-aroldi'), ('Coordinación', 'Florencia Aroldi', 'https://www.alternativateatral.com//persona4543-florencia-aroldi')], ['/espacio773-vera-vera-teatro'])

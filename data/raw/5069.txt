@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra69080-el-poder-de-las-historias', [('Autoría', 'Ana María Bovo', 'https://www.alternativateatral.com//persona7582-ana-maria-bovo'), ('Actúan', 'Ana María Bovo', 'https://www.alternativateatral.com//persona7582-ana-maria-bovo')], ['/espacio6511-sala-de-teatro-ana-frank', '/espacio28-celcit'])

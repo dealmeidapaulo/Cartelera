@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra77475-solo-de-impro', [('Actúan', 'Omar Argentino Galván', 'https://www.alternativateatral.com//persona139590-omar-argentino-galvan'), ('Actúan', 'Víctor Malagrino', 'https://www.alternativateatral.com//persona1681-victor-malagrino')], ['/espacio75-belisario-club-de-cultura'])

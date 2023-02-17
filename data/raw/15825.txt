@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra63781-andres-beeuwsaert--nadia-larcher', [('Intérpretes', 'Andrés Beeuwsaert', 'https://www.alternativateatral.com//persona276358-andres-beeuwsaert'), ('Intérpretes', 'Nadia Larcher', 'https://www.alternativateatral.com//persona304330-nadia-larcher')], ['/espacio2531-cafe-vinilo-cerrado'])

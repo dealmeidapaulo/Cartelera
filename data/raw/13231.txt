@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra58003-argenta-big-band', [('Arreglos musicales', 'Nestor Gomez', 'https://www.alternativateatral.com//persona133770-nestor-gomez'), ('Dirección musical', 'Nestor Gomez', 'https://www.alternativateatral.com//persona133770-nestor-gomez')], ['/espacio630-sala-420'])

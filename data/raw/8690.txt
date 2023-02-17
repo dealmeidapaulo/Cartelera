@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra58394-hernp.nan-rios-y-facundo-guevara--musica-argentina-y-latinoamericana-desde-la-improvisacion', [('Músicos', 'Facundo Guevara', 'https://www.alternativateatral.com//persona214028-facundo-guevara'), ('Músicos', 'Hernán Ríos', 'https://www.alternativateatral.com//persona319860-hernan-rios')], ['/espacio2531-cafe-vinilo-cerrado'])

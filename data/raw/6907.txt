@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra45793-semi-personal', [('Actúan', 'Nico Martinez', 'https://www.alternativateatral.com//persona348230-nico-martinez'), ('Actúan', 'Pablo Pampin', 'https://www.alternativateatral.com//persona286925-pablo-pampin'), ('Actúan', 'Manu Sereno', 'https://www.alternativateatral.com//persona348229-manu-sereno')], ['/espacio5256-saint-elmo'])

@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra2578-compasion-devoradora', [('Actúan', 'Mariano Angulo', 'https://www.alternativateatral.com//persona8779-mariano-angulo'), ('Actúan', 'Laura Esses', 'https://www.alternativateatral.com//persona8781-laura-esses'), ('Actúan', 'Juan Rodriguez', 'https://www.alternativateatral.com//persona8780-juan-rodriguez')], ['/espacio426-la-palmera'])

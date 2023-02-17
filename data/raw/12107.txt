@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra78966-expreso-al-reino-del-reves', [('Actúan', 'Facundo Pola', 'https://www.alternativateatral.com//persona328376-facundo-pola'), ('Actúan', 'Yazmin Schmidt', 'https://www.alternativateatral.com//persona27283-yazmin-schmidt')], ['/espacio534-teatro-maipu'])

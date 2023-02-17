@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra63247-ta-chann', [('Intérpretes', 'Lucía Echeverría', 'https://www.alternativateatral.com//persona274529-lucia-echeverria'), ('Intérpretes', 'Mr Splendini', 'https://www.alternativateatral.com//persona388648-mr-splendini')], ['/espacio49-el-vitral'])

@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra74152-rigor-mortis', [('Actúan', 'Rocio Goñi', 'https://www.alternativateatral.com//persona255135-rocio-goni'), ('Actúan', 'Jazmín Gonzalez', 'https://www.alternativateatral.com//persona309589-jazmin-gonzalez'), ('Actúan', 'Debora Herrero', 'https://www.alternativateatral.com//persona187533-debora-herrero')], ['/espacio6769-streaming'])

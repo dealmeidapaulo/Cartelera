@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra72971-memorias-de-una-cantante-en-cuarentena-de-daniela-horovitz', [('Autoría', 'Daniela Horovitz', 'https://www.alternativateatral.com//persona54968-daniela-horovitz'), ('Intérpretes', 'Daniela Horovitz', 'https://www.alternativateatral.com//persona54968-daniela-horovitz')], ['/espacio4701-pista-urbana'])

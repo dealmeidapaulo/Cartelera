@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra80200-leandro-cacioni-trio--eliana-sosa-en-el-ciclo-musical-entramados', [('Intérpretes', 'Leandro Cacioni Trío', 'https://www.alternativateatral.com//persona466900-leandro-cacioni-trio'), ('Intérpretes', 'Eliana Sosa', 'https://www.alternativateatral.com//persona91174-eliana-sosa')], ['/espacio2018-centro-cultural-25-de-mayo'])

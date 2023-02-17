@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra60903-voy-a-irrumarte-esta-noche', [('Autoría', 'Paola Kullock', 'https://www.alternativateatral.com//persona141267-paola-kullock'), ('Producción', 'Maximiliano Suarez', 'https://www.alternativateatral.com//persona66897-maximiliano-suarez')], ['/espacio5876-asterion-teatro'])

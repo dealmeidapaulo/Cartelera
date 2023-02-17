@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra32107-n-6', [('Dramaturgia', 'Camila Maurer', 'https://www.alternativateatral.com//persona189800-camila-maurer'), ('Actúan', 'Gabriel Shapiro', 'https://www.alternativateatral.com//persona282309-gabriel-shapiro'), ('Dirección', 'Camila Maurer', 'https://www.alternativateatral.com//persona189800-camila-maurer')], [])

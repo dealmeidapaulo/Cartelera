@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra51471-juan-falu', [('Músicos', 'Juan Falú', 'https://www.alternativateatral.com//persona296993-juan-falu')], ['/espacio2531-cafe-vinilo-cerrado', '/espacio4867-circe-fabrica-de-arte', '/espacio2531-cafe-vinilo-cerrado', '/espacio1148-teatro-de-la-media-legua'])

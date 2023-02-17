@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra28563-el-conventillo-de-la-coruna', [('Autoría', 'Claudio Allevato', 'https://www.alternativateatral.com//persona49547-claudio-allevato'), ('Dirección', 'Claudio Allevato', 'https://www.alternativateatral.com//persona49547-claudio-allevato')], ['/espacio54-espacio-ift'])

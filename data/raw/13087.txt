@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra80914-postales', [('Actúan', 'Maria Adela De Vedia', 'https://www.alternativateatral.com//persona288396-maria-adela-de-vedia'), ('Dirección', 'Maria Adela De Vedia', 'https://www.alternativateatral.com//persona288396-maria-adela-de-vedia')], ['/espacio6415-espacio-garcia'])

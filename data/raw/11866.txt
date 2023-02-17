@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra42407-laura-canoura--ciclo-agadu--autores-de-uruguay-en-buenos-aires', [('Intérpretes', 'Andrés Bedó', 'https://www.alternativateatral.com//persona247185-andres-bedo'), ('Intérpretes', 'Laura Canoura', 'https://www.alternativateatral.com//persona215546-laura-canoura')], ['/espacio2531-cafe-vinilo-cerrado'])

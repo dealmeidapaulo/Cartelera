@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra76446-la-pochi-show', [('Autoría', 'Laura Faienza', 'https://www.alternativateatral.com//persona34708-laura-faienza'), ('Actúan', 'Laura Faienza', 'https://www.alternativateatral.com//persona34708-laura-faienza'), ('Dirección', 'Laura Faienza', 'https://www.alternativateatral.com//persona34708-laura-faienza')], ['/espacio4766-el-ghueto'])

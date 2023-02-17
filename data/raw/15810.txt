@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra42057-vi-viendo-en-penumbras', [('Actúan', 'Ariel Cortina', 'https://www.alternativateatral.com//persona209320-ariel-cortina'), ('Actúan', 'Chelo Margal', 'https://www.alternativateatral.com//persona225364-chelo-margal')], ['/espacio3734-centro-cultural-eureka'])

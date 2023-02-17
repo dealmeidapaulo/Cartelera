@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra81676-simplemente-tita', [('Intérpretes', 'Vento Bardo Tango', 'https://www.alternativateatral.com//persona472666-vento-bardo-tango'), ('Artistas invitados', 'Celma Pesquero', 'https://www.alternativateatral.com//persona472667-celma-pesquero')], ['/espacio6816-savia-espacio-cultural', '/espacio6816-savia-espacio-cultural'])

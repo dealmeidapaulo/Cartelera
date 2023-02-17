@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra63499-maraton-de-clubes-de-musica--circe-luciana-jury-i-pedro-rossi', [('Músicos', 'Luciana Jury', 'https://www.alternativateatral.com//persona240586-luciana-jury'), ('Músicos', 'Pedro Rossi', 'https://www.alternativateatral.com//persona210326-pedro-rossi')], ['/espacio4867-circe-fabrica-de-arte'])

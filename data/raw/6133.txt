@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra73551-jueves-breve-pieza-teatral', [('Actúan', 'Mariano Cáceres', 'https://www.alternativateatral.com//persona145803-mariano-caceres'), ('Dirección', 'Carlos Diviesti', 'https://www.alternativateatral.com//persona11130-carlos-diviesti')], ['/espacio4701-pista-urbana'])

@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra40989-ruben-patagonia-con-tomas-lipan', [('Músicos', 'Tomás Lipán', 'https://www.alternativateatral.com//persona223814-tomas-lipan'), ('Músicos', 'Rubén Patagonia', 'https://www.alternativateatral.com//persona332320-ruben-patagonia')], ['/espacio512-torquato-tasso', '/espacio512-torquato-tasso'])

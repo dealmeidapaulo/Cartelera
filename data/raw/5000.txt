@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra72261-los-cuatro-dias-de-lorca-leida-por-su-autor-y-protagonista', [('Dramaturgia', 'Mariano Taccagni', 'https://www.alternativateatral.com//persona6816-mariano-taccagni'), ('Intérpretes', 'Mariano Taccagni', 'https://www.alternativateatral.com//persona6816-mariano-taccagni')], ['/espacio4638-el-metodo-kairos-teatro'])

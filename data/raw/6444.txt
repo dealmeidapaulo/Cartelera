@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra73899-solo-y-de-noche', [('Autoría', 'Pablo Vasco', 'https://www.alternativateatral.com//persona270255-pablo-vasco'), ('Actúan', 'Pablo Vasco', 'https://www.alternativateatral.com//persona270255-pablo-vasco'), ('Dirección', 'Pablo Vasco', 'https://www.alternativateatral.com//persona270255-pablo-vasco')], ['/espacio4182-cuatro-elementos'])

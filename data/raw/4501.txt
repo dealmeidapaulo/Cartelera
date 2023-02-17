@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra78448-el-arponero', [('Guión', 'Mirko Stopar', 'https://www.alternativateatral.com//persona458165-mirko-stopar'), ('Dirección', 'Mirko Stopar', 'https://www.alternativateatral.com//persona458165-mirko-stopar')], ['/espacio2018-centro-cultural-25-de-mayo'])

@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra33065-curepas', [('Músicos', 'Carlos Moscardini', 'https://www.alternativateatral.com//persona282451-carlos-moscardini'), ('Músicos', 'Julia Moscardini', 'https://www.alternativateatral.com//persona326081-julia-moscardini')], ['/espacio2531-cafe-vinilo-cerrado', '/espacio2531-cafe-vinilo-cerrado'])

@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra73974-solange-freyre-en-concierto', [('Piano', 'Esteban Rozenszain', 'https://www.alternativateatral.com//persona45381-esteban-rozenszain'), ('Voz', 'Solange Freyre', 'https://www.alternativateatral.com//persona401694-solange-freyre')], ['/espacio5275-teatro-border'])

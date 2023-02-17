@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra57300-juan-falu-y-andres-pilar', [('Intérpretes', 'Juan Falú', 'https://www.alternativateatral.com//persona296993-juan-falu'), ('Intérpretes', 'Andrés Pilar', 'https://www.alternativateatral.com//persona307538-andres-pilar')], ['/espacio2531-cafe-vinilo-cerrado', '/espacio4843-el-gutierrez-casa-taller'])

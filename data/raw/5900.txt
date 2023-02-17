@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra59289-lo-mejor-en-stand-up', [('Actúan', 'El Belga', 'https://www.alternativateatral.com//persona249652-el-belga'), ('Actúan', 'Maio Tanzer', 'https://www.alternativateatral.com//persona143371-maio-tanzer')], ['/espacio6136-stand-up-club', '/espacio6136-stand-up-club', '/espacio6136-stand-up-club'])

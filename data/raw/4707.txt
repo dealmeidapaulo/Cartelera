@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra69038-dos-mujeres', [('Dirección', 'Lula Pinto', 'https://www.alternativateatral.com//persona231253-lula-pinto'), ('Dirección', 'Daiana Rabalo', 'https://www.alternativateatral.com//persona170154-daiana-rabalo')], ['/espacio311-teatro-escuela-lo-de-guidi'])

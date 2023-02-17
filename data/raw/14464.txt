@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra26845-enroscado', [('Actúan', 'sebastian sebas', 'https://www.alternativateatral.com//persona238048-sebastian-sebas'), ('Dirección', 'Flamenco Mirabelli', 'https://www.alternativateatral.com//persona212630-flamenco-mirabelli')], ['/espacio4204-el-habito-bar'])

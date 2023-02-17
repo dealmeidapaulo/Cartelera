@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra53059-desmesura', [('Fotografía', 'Ezequiel Galli', 'https://www.alternativateatral.com//persona292757-ezequiel-galli'), ('Dirección', 'Gonzalo Ariel Villanueva', 'https://www.alternativateatral.com//persona139725-gonzalo-ariel-villanueva')], ['/espacio3830-la-vieja-guarida', '/espacio5991-teatro-hostel', '/espacio3830-la-vieja-guarida'])

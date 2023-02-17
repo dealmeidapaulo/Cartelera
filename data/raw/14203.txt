@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra32228-ainda-duo', [('Músicos', 'Esmeralda Escalante', 'https://www.alternativateatral.com//persona290159-esmeralda-escalante'), ('Músicos', 'Yago Escriva', 'https://www.alternativateatral.com//persona280848-yago-escriva')], ['/espacio1148-teatro-de-la-media-legua', '/espacio4955-santos-4040', '/espacio324-noavestruz-espacio-de-cultura'])

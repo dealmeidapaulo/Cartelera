@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra35575-juan-rodo-en-musicales-del-ayer', [('Actúan', 'Juan Rodo', 'https://www.alternativateatral.com//persona6861-juan-rodo'), ('Dirección musical', 'Damian Mahler', 'https://www.alternativateatral.com//persona32353-damian-mahler')], ['/espacio619-moliere-teatro'])

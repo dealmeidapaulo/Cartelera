@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra28992-loca-de-humor', [('Idea', 'Laura Faienza', 'https://www.alternativateatral.com//persona34708-laura-faienza'), ('Actúan', 'Laura Faienza', 'https://www.alternativateatral.com//persona34708-laura-faienza')], ['/espacio4080-habitar-gomez-espacio-cultural', '/espacio4080-habitar-gomez-espacio-cultural'])

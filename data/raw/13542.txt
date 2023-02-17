@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra46287-duo-bambu', [('Músicos', 'Sebastian Escofet', 'https://www.alternativateatral.com//persona35005-sebastian-escofet'), ('Músicos', 'Mery Sorrosal', 'https://www.alternativateatral.com//persona346799-mery-sorrosal')], ['/espacio324-noavestruz-espacio-de-cultura', '/espacio324-noavestruz-espacio-de-cultura'])

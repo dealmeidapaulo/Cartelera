@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra63362-recital-de-canto-y-piano', [('Cantantes', 'Malena Dayen', 'https://www.alternativateatral.com//persona401156-malena-dayen'), ('Músicos', 'Fernanda Morello', 'https://www.alternativateatral.com//persona401157-fernanda-morello')], ['/espacio5063-fundacion-beethoven'])

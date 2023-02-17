@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra72942-danzarte-viii--2020', [('Dirección', 'Belén Franz', 'https://www.alternativateatral.com//persona375310-belen-franz'), ('Dirección', 'Carina Vergano', 'https://www.alternativateatral.com//persona433561-carina-vergano')], ['/espacio1177-auditorio-san-rafael'])

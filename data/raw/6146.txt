@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra78289-sonoro', [('Actúan', 'Ricardo Ibarlín', 'https://www.alternativateatral.com//persona120721-ricardo-ibarlin'), ('Música En Vivo', 'Lara Fichera', 'https://www.alternativateatral.com//persona457470-lara-fichera')], ['/espacio1782-espacio-44', '/espacio5131-nn-teatro-bar'])

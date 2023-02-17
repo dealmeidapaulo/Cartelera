@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra63980-a-toda-costa', [('Actúan', 'Costa', 'https://www.alternativateatral.com//persona371462-costa')], ['/espacio433-teatro-lope-de-vega', '/espacio534-teatro-maipu', '/espacio3978-cine-teatro-helios', '/espacio4667-nucleo-espacio-artistico', '/espacio6406-teatro-moron'])

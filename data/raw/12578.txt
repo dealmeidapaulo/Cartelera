@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra32380-malena-muyala', [('Intérpretes', 'Malena Muyala', 'https://www.alternativateatral.com//persona283666-malena-muyala'), ('Intérpretes', 'fredy perez', 'https://www.alternativateatral.com//persona290592-fredy-perez')], ['/espacio512-torquato-tasso', '/espacio512-torquato-tasso', '/espacio2531-cafe-vinilo-cerrado'])

@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra58606-hijas', [('Autoría', 'Leticia Coronel', 'https://www.alternativateatral.com//persona386254-leticia-coronel'), ('Autoría', 'Lourdes Sol', 'https://www.alternativateatral.com//persona386256-lourdes-sol')], ['/espacio3933-teatro-hasta-trilce'])

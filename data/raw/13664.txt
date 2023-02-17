@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra68204-ciclo-danzas-de-estacion--primavera', [('Diseño gráfico', 'Natalia Segovia', 'https://www.alternativateatral.com//persona70030-natalia-segovia'), ('Producción general', 'El Piso Danza', 'https://www.alternativateatral.com//persona400934-el-piso-danza')], ['/espacio1562-el-piso-cultura-escenica'])

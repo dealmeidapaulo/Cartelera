@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra35555-federico-simonetti--stand-up', [('Actúan', 'Federico Simonetti', 'https://www.alternativateatral.com//persona46803-federico-simonetti'), ('Producción', 'Francisco Urdampilleta', 'https://www.alternativateatral.com//persona15375-francisco-urdampilleta')], ['/espacio630-sala-420', '/espacio3848-absinth', '/espacio3848-absinth'])

@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra77494-duo-sinesiforetic', [('Guitarra', 'Quique Sinesi', 'https://www.alternativateatral.com//persona200044-quique-sinesi'), ('Bandoneón', 'Damian Foretic', 'https://www.alternativateatral.com//persona68891-damian-foretic')], ['/espacio3933-teatro-hasta-trilce'])

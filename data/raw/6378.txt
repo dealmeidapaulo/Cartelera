@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra62179-torneo-de-dramaturgia-argentina', [('Intérpretes', 'Nicolás Deppetre', 'https://www.alternativateatral.com//persona30355-nicolas-deppetre'), ('Intérpretes', 'María Jimena Del Pozo', 'https://www.alternativateatral.com//persona397422-maria-jimena-del-pozo')], ['/espacio431-timbre-4'])

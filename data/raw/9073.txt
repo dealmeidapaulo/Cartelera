@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra66925-mundo-circuete', [('Actúan', 'Romañoli', 'https://www.alternativateatral.com//persona413247-romanoli'), ('Actúan', 'Otto Bartulo', 'https://www.alternativateatral.com//persona413249-otto-bartulo')], ['/espacio176-circuito-cultural-barracas', '/espacio4045-indigo'])

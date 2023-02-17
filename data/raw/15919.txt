@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra70458-teatro-4-x-4-febrero-2020', [('Asistencia general', 'Laura Verna', 'https://www.alternativateatral.com//persona382512-laura-verna'), ('Producción general', 'Almendra y Peperina', 'https://www.alternativateatral.com//persona380813-almendra-y-peperina')], ['/espacio3442-machado-teatro'])

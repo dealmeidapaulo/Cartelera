@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra36778-pinocho', [('Adaptación', 'Osvaldo Drat', 'https://www.alternativateatral.com//persona278474-osvaldo-drat'), ('Dirección', 'Osvaldo Drat', 'https://www.alternativateatral.com//persona278474-osvaldo-drat')], ['/espacio4667-nucleo-espacio-artistico'])

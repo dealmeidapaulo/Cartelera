@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra65391-hernp.nan-rios--facundo-guevara-presentan-flor-africana', [('Músicos', 'Facundo Guevara', 'https://www.alternativateatral.com//persona214028-facundo-guevara'), ('Músicos', 'Hernán Ríos', 'https://www.alternativateatral.com//persona319860-hernan-rios')], ['/espacio7079-cafe-vinilo', '/espacio2531-cafe-vinilo'])

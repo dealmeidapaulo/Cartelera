@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra66309-barrigaverde-ataca-de-nuevo', [('Intérpretes', 'Borja Insua', 'https://www.alternativateatral.com//persona411179-borja-insua'), ('Creación', 'Borja Insua', 'https://www.alternativateatral.com//persona411179-borja-insua')], ['/espacio124-el-galpon-de-catalinas', '/espacio186-teatro-la-mascara', '/espacio5867-teatro-de-los-pompas'])

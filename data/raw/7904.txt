@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra58787-kaymanta', [('Producción', 'Gustavo Bernni', 'https://www.alternativateatral.com//persona386910-gustavo-bernni'), ('Producción', 'Maximiliano Suarez', 'https://www.alternativateatral.com//persona66897-maximiliano-suarez')], ['/espacio5079-galpon-b-espacio-de-conciertos'])

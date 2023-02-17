@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra81122-noche-acustica', [('Intérpretes', 'Octavio Gonzalez', 'https://www.alternativateatral.com//persona214832-octavio-gonzalez'), ('Intérpretes', 'Abril Olaizola', 'https://www.alternativateatral.com//persona301462-abril-olaizola')], ['/espacio6816-savia-espacio-cultural'])

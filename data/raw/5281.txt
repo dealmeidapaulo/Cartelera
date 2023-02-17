@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra75994-chernobyl-d24mil', [('Producción', 'Maca Von Gabbanay', 'https://www.alternativateatral.com//persona457324-maca-von-gabbanay'), ('Dirección', 'Maca Von Gabbanay', 'https://www.alternativateatral.com//persona457324-maca-von-gabbanay')], ['/espacio4922-el-alambique', '/espacio4922-el-alambique'])

@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra76405-angel-y-rafael-sucheras', [('Músicos', 'Angel Sucheras', 'https://www.alternativateatral.com//persona401616-angel-sucheras'), ('Músicos', 'Rafael Sucheras', 'https://www.alternativateatral.com//persona38015-rafael-sucheras')], ['/espacio2997-teatro-el-extranjero', '/espacio6932-patio-salguero'])

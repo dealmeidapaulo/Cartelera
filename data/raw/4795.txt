@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra74975-rubio-peronista--negro-andante', [('Actúan', 'Gustavo Berger', 'https://www.alternativateatral.com//persona45600-gustavo-berger'), ('Actuación Especial', 'NEGRO ANDANTE', 'https://www.alternativateatral.com//persona439800-negro-andante')], ['/espacio534-teatro-maipu', '/espacio4922-el-alambique'])

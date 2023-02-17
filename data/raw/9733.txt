@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra55855-sinesi--moguilevsky-19972017', [('Músicos', 'Marcelo Moguilevsky', 'https://www.alternativateatral.com//persona586-marcelo-moguilevsky'), ('Músicos', 'Quique Sinesi', 'https://www.alternativateatral.com//persona200044-quique-sinesi')], ['/espacio2531-cafe-vinilo-cerrado'])

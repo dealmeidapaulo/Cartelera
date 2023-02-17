@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra80892-vitale--baglietto-en-concierto', [('Intérpretes', 'Juan Carlos Baglietto', 'https://www.alternativateatral.com//persona155162-juan-carlos-baglietto'), ('Intérpretes', 'Lito Vitale', 'https://www.alternativateatral.com//persona2005-lito-vitale')], ['/espacio1177-auditorio-san-rafael'])

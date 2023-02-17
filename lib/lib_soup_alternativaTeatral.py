@@ -36,29 +36,41 @@ def obra_getPersonas_int(soup):
     return x
 
 def obra_getPersonas(soup):
-    #Devuelve (rubro, nombre, url) de todas las personas en una obra
-    ficha = obra_getFichaTecnica(soup)
-    x = []
-    for i in ficha:
-        if 'asp?c=' in str(i):
-            rubro = i.text
-        else:
-            x.append((rubro,i.text,int_getUrl(i['href'])))
-    return x
+    try:
+        #Devuelve (rubro, nombre, url) de todas las personas en una obra
+        ficha = obra_getFichaTecnica(soup)
+        x = []
+        for i in ficha:
+            if 'asp?c=' in str(i):
+                rubro = i.text
+            else:
+                x.append((rubro,i.text,int_getUrl(i['href'])))
+        return x
+    except: return []
 
+def obra_getTeatros(soup):
+    try:
+        soup = soup.find("section", {"class":"section_vinculos alter-padding-left alter-padding-right"})
+        urls = get_links(soup)
+    except: urls = []
+    return urls 
 
 
 def obra_info(url):
     soup = url_to_soup(url)
     (title,soup) = soup.html.body.findChild("div",{"class":"mdc-drawer-app-content"}).findChildren("div", {"class":"row"})
-    
+
     title = title.text
 
     people = obra_getPersonas(soup)
     
     return title, url, people
 
-
+def obra_info2(url):
+    soup = url_to_soup(url)
+    people  = obra_getPersonas(soup)
+    teatros = obra_getTeatros(soup)    
+    return (url, people, teatros)
 
 def persona_getObras_int(soup):
     y = soup.find("ul", {"id":"listado-trayectoria"})
@@ -86,6 +98,9 @@ def buscarObra(titulo):
     except:
         return []
 
+
+
+#REVISARÍA LAS FUNCIONES DE OPINIONES.
 
 
 def opiniones_url_i(i, url='https://www.alternativateatral.com/opinion_publico.php?pagina='):

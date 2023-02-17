@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra36544-cebolla-y-betun', [('Actúan', 'Edgardo Barrile', 'https://www.alternativateatral.com//persona282280-edgardo-barrile'), ('Actúan', 'Betsabé Nieves Piñeiro', 'https://www.alternativateatral.com//persona307291-betsabe-nieves-pineiro')], ['/espacio5177-teatrarte', '/espacio5177-teatrarte', '/espacio4504-la-nave-espacio-de-arte'])

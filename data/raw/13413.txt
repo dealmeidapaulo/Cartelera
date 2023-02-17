@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra65680-yamila-cafrune-y-victor-simon-presentan-amigos-en-la-musica', [('Músicos', 'Victor Simón', 'https://www.alternativateatral.com//persona349556-victor-simon'), ('Cantante', 'Yamila Cafrune', 'https://www.alternativateatral.com//persona325280-yamila-cafrune')], ['/espacio4843-el-gutierrez-casa-taller'])

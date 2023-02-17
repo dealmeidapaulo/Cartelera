@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra59741-ciclo-de-guitarras--ernesto-snajer--tom-viano', [('Músicos', 'Tomás Viano Kantemiroff', 'https://www.alternativateatral.com//persona277631-tomas-viano-kantemiroff'), ('Músicos', 'Ernesto Snajer', 'https://www.alternativateatral.com//persona104908-ernesto-snajer')], ['/espacio2531-cafe-vinilo'])

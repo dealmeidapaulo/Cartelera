@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra80147-ciclo-micelio', [('Idea', 'Kevin Lepiesievicz', 'https://www.alternativateatral.com//persona464233-kevin-lepiesievicz'), ('Producción', 'Kevin Lepiesievicz', 'https://www.alternativateatral.com//persona464233-kevin-lepiesievicz')], ['/espacio5421-teatro-carnero', '/espacio6511-sala-de-teatro-ana-frank'])

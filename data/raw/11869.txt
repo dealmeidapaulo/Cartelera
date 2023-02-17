@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra66140-el-gato-y-el-zorro', [('Actúan', 'Rolando Hanglin', 'https://www.alternativateatral.com//persona394161-rolando-hanglin'), ('Actúan', 'Mario Mactas', 'https://www.alternativateatral.com//persona412674-mario-mactas')], ['/espacio74-teatro-picadilly', '/espacio534-teatro-maipu', '/espacio4667-nucleo-espacio-artistico'])

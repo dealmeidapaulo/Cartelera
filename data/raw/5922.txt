@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra66055-una-nina-muy-especial-dulce-vampi', [('Producción', 'M&MPRODUCCIONES', 'https://www.alternativateatral.com//persona306833-mmproducciones'), ('Producción', 'Mónica Galán', 'https://www.alternativateatral.com//persona14082-monica-galan')], ['/espacio534-teatro-maipu', '/espacio4905-multiescena-cpm', '/espacio534-teatro-maipu'])

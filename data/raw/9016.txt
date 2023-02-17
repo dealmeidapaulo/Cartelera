@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra43674-casiana-torres', [('Cantantes', 'Casiana Torres', 'https://www.alternativateatral.com//persona1968-casiana-torres'), ('Músicos', 'Martín Nazareno Castro', 'https://www.alternativateatral.com//persona350029-martin-nazareno-castro')], ['/espacio2531-cafe-vinilo-cerrado', '/espacio3933-teatro-hasta-trilce'])

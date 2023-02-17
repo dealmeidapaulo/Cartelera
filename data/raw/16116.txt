@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra69512-ciclo-de-pianistas--alejandro-kalinoski-presenta-su-disco-check-in', [('Músicos', 'Alejandro Kalinoski', 'https://www.alternativateatral.com//persona187439-alejandro-kalinoski'), ('Músicos', 'Pablo Tosi', 'https://www.alternativateatral.com//persona32782-pablo-tosi')], ['/espacio2531-cafe-vinilo-cerrado'])

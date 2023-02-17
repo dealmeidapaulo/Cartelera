@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra75922-minimal-piano-tango--adrian-placenti', [('Piano', 'Adrián Placenti', 'https://www.alternativateatral.com//persona446616-adrian-placenti'), ('Composición', 'Adrián Placenti', 'https://www.alternativateatral.com//persona446616-adrian-placenti')], ['/espacio4701-pista-urbana'])

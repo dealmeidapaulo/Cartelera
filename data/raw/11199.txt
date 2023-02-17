@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra62576-el-zar--micro-acustico', [('Intérpretes', 'Facundo Castaño Montoya', 'https://www.alternativateatral.com//persona398802-facundo-castano-montoya'), ('Intérpretes', 'Pablo Gimenez', 'https://www.alternativateatral.com//persona15985-pablo-gimenez')], ['/espacio5844-microteatro-buenos-aires'])

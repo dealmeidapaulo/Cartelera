@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra41733-barullo--emocion-violenta', [('Actúan', 'Juan Barraza', 'https://www.alternativateatral.com//persona19514-juan-barraza'), ('Actúan', 'Natalia Carulias', 'https://www.alternativateatral.com//persona3825-natalia-carulias')], ['/espacio462-chacarerean-teatre', '/espacio462-chacarerean-teatre'])

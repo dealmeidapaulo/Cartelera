@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra74056-flopa', [('Guitarra', 'Flopa Lestani', 'https://www.alternativateatral.com//persona37537-flopa-lestani'), ('Voz', 'Flopa Lestani', 'https://www.alternativateatral.com//persona37537-flopa-lestani')], ['/espacio1808-que-tren-club-cultural', '/espacio6495-centro-cultural-macedonia', '/espacio1808-que-tren-club-cultural'])

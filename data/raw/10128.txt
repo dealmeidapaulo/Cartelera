@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra39781-bardo-show-de-stand-up', [('Actúan', 'Pablo Barros', 'https://www.alternativateatral.com//persona240296-pablo-barros'), ('Actúan', 'Mariano De María', 'https://www.alternativateatral.com//persona55864-mariano-de-maria')], ['/espacio5176-taburete-club-de-comedia', '/espacio5176-taburete-club-de-comedia'])

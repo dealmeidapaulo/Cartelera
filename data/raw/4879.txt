@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra77915-martin-liut--gabriela-bernasconi', [('Intérpretes', 'Gabriela Bernasconi', 'https://www.alternativateatral.com//persona325661-gabriela-bernasconi'), ('Intérpretes', 'Martín Liut', 'https://www.alternativateatral.com//persona307073-martin-liut')], ['/espacio59-la-scala-de-san-telmo-giuffra'])

@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra34206-feinmanns', [('Actúan', 'Ezequiel Alvarez', 'https://www.alternativateatral.com//persona269699-ezequiel-alvarez'), ('Actúan', 'Leonardo Kreimenchuvsky', 'https://www.alternativateatral.com//persona161141-leonardo-kreimenchuvsky')], ['/espacio3848-absinth'])

@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra78224-orozco--barrientos-en-el-galpon-de-haedo', [('Músicos', 'Raúl "tilín" Orozco', 'https://www.alternativateatral.com//persona457148-raul-tilin-orozco'), ('Músicos', 'Fernando Barrientos', 'https://www.alternativateatral.com//persona115374-fernando-barrientos')], ['/espacio6809-el-galpon-de-haedo', '/espacio6809-el-galpon-de-haedo'])

@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra42911-che-chelos', [('Intérpretes', 'Mauro Sarachian', 'https://www.alternativateatral.com//persona290246-mauro-sarachian'), ('Intérpretes', 'Ramiro Zarate', 'https://www.alternativateatral.com//persona317444-ramiro-zarate')], ['/espacio2531-cafe-vinilo-cerrado'])

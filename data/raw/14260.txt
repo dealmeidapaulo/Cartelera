@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra48151-ariel-ardit-inedito', [('Cantantes', 'Ariel Ardit', 'https://www.alternativateatral.com//persona343023-ariel-ardit'), ('Producción', 'Sergio Vidal', 'https://www.alternativateatral.com//persona255300-sergio-vidal')], ['/espacio2531-cafe-vinilo-cerrado', '/espacio4843-el-gutierrez-casa-taller'])

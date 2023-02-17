@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra70347-chi-chon', [('Autoría', 'Silvio VC', 'https://www.alternativateatral.com//persona424311-silvio-vc'), ('Intérpretes', 'Silvio VC', 'https://www.alternativateatral.com//persona424311-silvio-vc'), ('Dirección', 'Silvio VC', 'https://www.alternativateatral.com//persona424311-silvio-vc')], ['/espacio3933-teatro-hasta-trilce'])

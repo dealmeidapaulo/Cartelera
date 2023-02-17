@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra73259-concierto-en-el-cine', [('Realización Audiovisual', 'Rober Zamora', 'https://www.alternativateatral.com//persona434367-rober-zamora'), ('Dirección', 'Ayelen Brusco', 'https://www.alternativateatral.com//persona396760-ayelen-brusco')], ['/espacio6813-espacio-creativo-luna-roja'])

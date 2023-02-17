@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra80210-lontano', [('Dramaturgia', 'Belén Bartel', 'https://www.alternativateatral.com//persona455830-belen-bartel'), ('Actúan', 'Belén Bartel', 'https://www.alternativateatral.com//persona455830-belen-bartel'), ('Dirección', 'Romina Mónaco', 'https://www.alternativateatral.com//persona189209-romina-monaco')], ['/espacio6464-sarandiarte'])

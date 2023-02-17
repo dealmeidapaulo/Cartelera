@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra59825-proyecto-bisman', [('Actúan', 'Martín Rechimuzzi', 'https://www.alternativateatral.com//persona31772-martin-rechimuzzi'), ('Actúan', 'Pedro Rosemblat', 'https://www.alternativateatral.com//persona390145-pedro-rosemblat')], ['/espacio534-teatro-maipu'])

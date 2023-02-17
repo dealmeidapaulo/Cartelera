@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra76289-juan-falu', [('Guitarra', 'Juan Falú', 'https://www.alternativateatral.com//persona296993-juan-falu'), ('Voz', 'Juan Falú', 'https://www.alternativateatral.com//persona296993-juan-falu')], ['/espacio6809-el-galpon-de-haedo', '/espacio5951-doblet'])

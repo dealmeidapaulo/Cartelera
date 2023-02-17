@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra54101-door', [('Actúan', 'Georges Lewis', 'https://www.alternativateatral.com//persona121427-georges-lewis'), ('Dirección', 'Yanina Frenkel', 'https://www.alternativateatral.com//persona373045-yanina-frenkel')], ['/espacio431-timbre-4', '/espacio4182-cuatro-elementos', '/espacio3945-cuarta-pared'])

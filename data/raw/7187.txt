@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra81221-huellas', [('Intérpretes', 'Gabriela Battipede', 'https://www.alternativateatral.com//persona259778-gabriela-battipede'), ('Intérpretes', 'Marina García', 'https://www.alternativateatral.com//persona423948-marina-garcia')], ['/espacio59-la-scala-de-san-telmo-giuffra'])

@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra32918-amnesia-stand-up', [('Actúan', 'Ana Fainberg', 'https://www.alternativateatral.com//persona297545-ana-fainberg'), ('Actúan', 'Pichi Piccirillo', 'https://www.alternativateatral.com//persona208466-pichi-piccirillo')], ['/espacio2590-el-altillo-club-de-comedia'])

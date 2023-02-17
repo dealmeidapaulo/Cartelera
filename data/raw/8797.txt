@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra63350-lerner--moguilevsky--klezfarad', [('Músicos', 'César Lerner', 'https://www.alternativateatral.com//persona89-cesar-lerner'), ('Músicos', 'Marcelo Moguilevsky', 'https://www.alternativateatral.com//persona586-marcelo-moguilevsky')], ['/espacio2531-cafe-vinilo-cerrado'])

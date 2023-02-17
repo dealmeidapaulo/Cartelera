@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra47435-juan-falu--marcelo-moguilevsky--presentan-ayer-es-siempre', [('Músicos', 'Juan Falú', 'https://www.alternativateatral.com//persona296993-juan-falu'), ('Músicos', 'Marcelo Moguilevsky', 'https://www.alternativateatral.com//persona586-marcelo-moguilevsky')], ['/espacio1148-teatro-de-la-media-legua', '/espacio2531-cafe-vinilo'])

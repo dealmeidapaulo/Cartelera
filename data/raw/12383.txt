@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra74572-sami-abadi-en-concierto', [('Músicos', 'Sami Abadi', 'https://www.alternativateatral.com//persona6394-sami-abadi'), ('Diseño sonoro', 'Sami Abadi', 'https://www.alternativateatral.com//persona6394-sami-abadi')], ['/espacio2997-teatro-el-extranjero', '/espacio6932-patio-salguero'])

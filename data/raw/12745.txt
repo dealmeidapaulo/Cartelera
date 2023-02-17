@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra68633-ciclo-todo-concuerda--duo-avalleschreiner', [('Músicos', 'Leandro Avalle', 'https://www.alternativateatral.com//persona418880-leandro-avalle'), ('Músicos', 'Hermann Schreiner', 'https://www.alternativateatral.com//persona371917-hermann-schreiner')], ['/espacio2531-cafe-vinilo-cerrado'])

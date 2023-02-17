@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra75166-taller-de-montaje-aladdin', [('Diseño gráfico', 'Matias Barey', 'https://www.alternativateatral.com//persona441409-matias-barey'), ('Dirección', 'Agustina Mandia', 'https://www.alternativateatral.com//persona439868-agustina-mandia')], ['/espacio49-el-vitral'])

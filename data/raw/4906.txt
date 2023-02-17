@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra68141-mariela-carabajal-y-flor-curcio', [('Intérpretes', 'Mariela Carabajal', 'https://www.alternativateatral.com//persona417159-mariela-carabajal'), ('Intérpretes', 'Flor Curcio', 'https://www.alternativateatral.com//persona417160-flor-curcio')], ['/espacio178-el-archibrazo'])

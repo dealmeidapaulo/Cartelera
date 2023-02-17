@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra72518-stand-up-on-line-con-invitado-pablo-cordonet--pablo-picotto', [('Actúan', 'Pablo Cordonet', 'https://www.alternativateatral.com//persona23277-pablo-cordonet'), ('Artistas invitados', 'Pablo Picotto', 'https://www.alternativateatral.com//persona10969-pablo-picotto')], ['/espacio665-banfield-teatro-ensamble'])

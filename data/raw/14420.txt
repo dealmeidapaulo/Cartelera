@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra78127-paloma-salas--charo-lopez', [('Intérpretes', 'Charo López', 'https://www.alternativateatral.com//persona10071-charo-lopez'), ('Intérpretes', 'Paloma Salas', 'https://www.alternativateatral.com//persona456703-paloma-salas')], ['/espacio5131-nn-teatro-bar'])

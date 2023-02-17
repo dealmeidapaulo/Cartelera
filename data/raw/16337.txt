@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra59755-stop-violence', [('Idea', 'Rodolfo Rossi', 'https://www.alternativateatral.com//persona63925-rodolfo-rossi'), ('Dirección', 'Gisella Sirera', 'https://www.alternativateatral.com//persona12126-gisella-sirera')], ['/espacio5131-nn-teatro-bar', '/espacio199-espacio-colette-paseo-la-plaza'])

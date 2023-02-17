@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra49263-desandando-folclore', [('Intérpretes', 'Silvia Gordillo', 'https://www.alternativateatral.com//persona19755-silvia-gordillo'), ('Intérpretes', 'Emiliano Llere', 'https://www.alternativateatral.com//persona356785-emiliano-llere')], ['/espacio3830-la-vieja-guarida', '/espacio3830-la-vieja-guarida', '/espacio4658-la-lunares'])

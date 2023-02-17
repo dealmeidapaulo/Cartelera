@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra38626-liliana-herrero--pedro-rossi-directo-de-fabrica-pensamiento-y-manufactura-de-la-musica', [('Intérpretes', 'Liliana Herrero', 'https://www.alternativateatral.com//persona179573-liliana-herrero'), ('Intérpretes', 'Pedro Rossi', 'https://www.alternativateatral.com//persona210326-pedro-rossi')], ['/espacio4867-circe-fabrica-de-arte'])

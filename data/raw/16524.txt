@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra81386-muestra-comedia-lunes-esperando-la-carroza', [('Profesores', 'Maite Giribaldi', 'https://www.alternativateatral.com//persona408122-maite-giribaldi'), ('Profesores', 'Pilar Rodriguez Rey', 'https://www.alternativateatral.com//persona13743-pilar-rodriguez-rey')], ['/espacio1412-la-galera-encantada'])

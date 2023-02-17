@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra76450-tenemos-que-hablar', [('Actúan', 'Malena Pichot', 'https://www.alternativateatral.com//persona131528-malena-pichot'), ('Actúan', 'Vanesa Strauch', 'https://www.alternativateatral.com//persona1631-vanesa-strauch')], ['/espacio6582-dumont-4040', '/espacio6582-dumont-4040'])

@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra56635-beto-caletti--mishka-adams', [('Músicos', 'Mishka Adams', 'https://www.alternativateatral.com//persona379526-mishka-adams'), ('Músicos', 'Beto Caletti', 'https://www.alternativateatral.com//persona283667-beto-caletti')], ['/espacio7079-cafe-vinilo', '/espacio2531-cafe-vinilo-cerrado'])

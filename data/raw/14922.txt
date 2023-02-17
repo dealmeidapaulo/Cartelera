@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra65572-juan-falu--carlos-moscardini', [('Músicos', 'Juan Falú', 'https://www.alternativateatral.com//persona296993-juan-falu'), ('Músicos', 'Carlos Moscardini', 'https://www.alternativateatral.com//persona282451-carlos-moscardini')], ['/espacio1148-teatro-de-la-media-legua', '/espacio4843-el-gutierrez-casa-taller'])

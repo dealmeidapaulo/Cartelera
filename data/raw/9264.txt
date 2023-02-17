@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra75675-caminos', [('Músicos', 'Carlos Britez', 'https://www.alternativateatral.com//persona209401-carlos-britez'), ('Músicos', 'Fabián Fazio', 'https://www.alternativateatral.com//persona12178-fabian-fazio'), ('Voz', 'Sebastián Holz', 'https://www.alternativateatral.com//persona13207-sebastian-holz')], ['/espacio34-teatro-de-la-fabula'])

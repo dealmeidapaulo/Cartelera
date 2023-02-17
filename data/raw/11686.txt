@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra28280-ramayana', [('Titeres', 'Ki Seno Nugroho', 'https://www.alternativateatral.com//persona254231-ki-seno-nugroho'), ('Música', 'Wargo Laras', 'https://www.alternativateatral.com//persona254232-wargo-laras')], ['/espacio124-el-galpon-de-catalinas', '/espacio186-teatro-la-mascara'])

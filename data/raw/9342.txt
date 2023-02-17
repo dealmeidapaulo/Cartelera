@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra42827-la-serva-padrona', [('Música original', 'Giovanni Battista Pergolesi', 'https://www.alternativateatral.com//persona17208-giovanni-battista-pergolesi'), ('Director musical', 'Leandro Soldano', 'https://www.alternativateatral.com//persona233500-leandro-soldano')], ['/espacio50-teatro-empire'])

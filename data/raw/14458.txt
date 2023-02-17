@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra39975-alucinatium--stand-up', [('Texto', 'Sebastián Rubio', 'https://www.alternativateatral.com//persona1661-sebastian-rubio'), ('Actúan', 'Sebastián Rubio', 'https://www.alternativateatral.com//persona1661-sebastian-rubio')], ['/espacio199-espacio-colette-paseo-la-plaza'])

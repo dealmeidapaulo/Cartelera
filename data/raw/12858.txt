@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra41318-leo-masliah--federico-nathan', [('Intérpretes', 'Leo Masliah', 'https://www.alternativateatral.com//persona663-leo-masliah'), ('Intérpretes', 'Federico Nathan', 'https://www.alternativateatral.com//persona330085-federico-nathan')], ['/espacio2531-cafe-vinilo-cerrado'])

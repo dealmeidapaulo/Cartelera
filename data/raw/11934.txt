@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra75568-experiencia-canta-cuenta', [('Narración', 'Juan Solá', 'https://www.alternativateatral.com//persona445238-juan-sola'), ('Cantante', 'El Alemán', 'https://www.alternativateatral.com//persona424624-el-aleman')], ['/espacio164-el-refugio', '/espacio6809-el-galpon-de-haedo', '/espacio630-sala-420', '/espacio3933-teatro-hasta-trilce'])

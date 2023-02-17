@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra59265-esteban-morgado-y-quique-pesoa', [('Intérpretes', 'Esteban Morgado', 'https://www.alternativateatral.com//persona2417-esteban-morgado'), ('Intérpretes', 'Quique Pessoa', 'https://www.alternativateatral.com//persona28-quique-pessoa')], ['/espacio4843-el-gutierrez-casa-taller'])

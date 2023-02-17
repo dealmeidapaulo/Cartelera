@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra68641-leo-masliah', [('Intérpretes', 'Leo Masliah', 'https://www.alternativateatral.com//persona663-leo-masliah'), ('Fotografía', 'Manuel Pose Varela', 'https://www.alternativateatral.com//persona464239-manuel-pose-varela')], ['/espacio7079-cafe-vinilo', '/espacio1148-teatro-de-la-media-legua'])

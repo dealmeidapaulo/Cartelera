@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra74280-buenas-noches-malvinas', [('Dirección', 'Ana Fraile', 'https://www.alternativateatral.com//persona439322-ana-fraile'), ('Dirección', 'Lucas Scavino', 'https://www.alternativateatral.com//persona439323-lucas-scavino')], ['/espacio2018-centro-cultural-25-de-mayo'])

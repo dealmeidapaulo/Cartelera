@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra21726-rush-humor-de-mente', [('Actúan', 'Daniel Vint Silveira', 'https://www.alternativateatral.com//persona1950-daniel-vint-silveira'), ('Actúan', 'Fanny Vega', 'https://www.alternativateatral.com//persona83138-fanny-vega')], ['/espacio106-the-cavern-buenos-aires', '/espacio106-the-cavern-buenos-aires'])

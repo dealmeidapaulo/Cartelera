@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra69525-de-la-nada', [('Actúan', 'Cristian Albornos', 'https://www.alternativateatral.com//persona48394-cristian-albornos'), ('Actúan', 'Carla Laneri', 'https://www.alternativateatral.com//persona98075-carla-laneri')], ['/espacio49-el-vitral', '/espacio49-el-vitral'])

@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra79489-sentidos-y-sinsentidos', [('Autoría', 'Anabel Ares', 'https://www.alternativateatral.com//persona233204-anabel-ares'), ('Actúan', 'Jimena Esnaola', 'https://www.alternativateatral.com//persona463304-jimena-esnaola'), ('Dirección', 'Erika Ellinghaus', 'https://www.alternativateatral.com//persona463305-erika-ellinghaus')], [])

@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra69505-primavera-cordobesa--muestra-del-taller-de-actuacion', [('Profesores', 'Candelaria Sesín', 'https://www.alternativateatral.com//persona106409-candelaria-sesin'), ('Coordinación', 'Sebastián Mogordoy', 'https://www.alternativateatral.com//persona1759-sebastian-mogordoy')], ['/espacio5121-espacio-sismico'])

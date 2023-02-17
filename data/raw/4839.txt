@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra72197-festival-no-queremos-cerrar', [('Producción', 'Nün Teatro Bar', 'https://www.alternativateatral.com//persona332227-nn-teatro-bar'), ('Producción', 'El Método Kairós Teatro', 'https://www.alternativateatral.com//persona315217-el-metodo-kairos-teatro')], ['/espacio5131-nn-teatro-bar'])

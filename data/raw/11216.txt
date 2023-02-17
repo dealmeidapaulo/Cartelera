@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra30581-me-gusta-stand-up', [('Actúan', 'Mau', 'https://www.alternativateatral.com//persona259014-mau'), ('Actúan', 'Elly Lopez Gomez', 'https://www.alternativateatral.com//persona269909-elly-lopez-gomez'), ('Actúan', 'Andrés Remón', 'https://www.alternativateatral.com//persona259027-andres-remon')], ['/espacio3848-absinth'])

@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra73457-coronadisimas', [('Intérpretes', 'Alan Elizalde', 'https://www.alternativateatral.com//persona226740-alan-elizalde'), ('Intérpretes', 'Nicolás Pincus', 'https://www.alternativateatral.com//persona226741-nicolas-pincus')], ['/espacio98-teatro-gargantua'])

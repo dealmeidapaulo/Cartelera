@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra74662-orquesta-de-tango--una-tango--eliana-sosa', [('Cantantes Invitados', 'Lautaro Mazza', 'https://www.alternativateatral.com//persona344072-lautaro-mazza'), ('Dirección', 'Ariel Pirotti', 'https://www.alternativateatral.com//persona44809-ariel-pirotti')], ['/espacio2018-centro-cultural-25-de-mayo'])

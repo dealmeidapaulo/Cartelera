@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra78634-triptico-gonzalezmolina', [('Intérpretes', 'Esteban Gonzalez', 'https://www.alternativateatral.com//persona220521-esteban-gonzalez'), ('Intérpretes', 'Fernando Molina', 'https://www.alternativateatral.com//persona244982-fernando-molina')], ['/espacio3983-teatro-el-popular'])

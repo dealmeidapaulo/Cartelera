@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra77997-cartana-a-la-carta', [('Artistas', 'Veronica Bassus', 'https://www.alternativateatral.com//persona335870-veronica-bassus'), ('Artistas', 'Gabriel Cartaña', 'https://www.alternativateatral.com//persona384869-gabriel-cartana')], ['/espacio534-teatro-maipu', '/espacio5231-teatro-union'])

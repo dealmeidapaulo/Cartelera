@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra65191-peronofobia', [('Idea', 'Alejandro Grimson', 'https://www.alternativateatral.com//persona407025-alejandro-grimson'), ('Idea', 'Pedro Saborido', 'https://www.alternativateatral.com//persona16856-pedro-saborido')], ['/espacio519-caras-y-caretas-san-telmo', '/espacio6056-cultural-moran'])

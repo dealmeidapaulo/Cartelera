@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra57118-carlos-aguirre-y-yotam-silberstein-duo', [('Músicos', 'Carlos Aguirre', 'https://www.alternativateatral.com//persona14035-carlos-aguirre'), ('Músicos', 'Yotam Silberstein', 'https://www.alternativateatral.com//persona360287-yotam-silberstein')], ['/espacio2531-cafe-vinilo-cerrado'])

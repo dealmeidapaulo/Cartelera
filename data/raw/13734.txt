@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra34138-luna-monti-y-juan-quintero', [('Intérpretes', 'Luna Monti', 'https://www.alternativateatral.com//persona291392-luna-monti'), ('Intérpretes', 'Juan Quintero', 'https://www.alternativateatral.com//persona98191-juan-quintero')], ['/espacio4843-el-gutierrez-casa-taller'])

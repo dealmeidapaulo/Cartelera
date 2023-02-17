@@ -1,0 +1,1 @@
+('https://www.alternativateatral.com//obra76922-madrigaleros', [('Tenor', 'Sergio Ganza', 'https://www.alternativateatral.com//persona121993-sergio-ganza'), ('Músicos', 'Federico Ciancio', 'https://www.alternativateatral.com//persona220192-federico-ciancio')], [])
